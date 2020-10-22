@@ -1,0 +1,103 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.name-highlight{
+    color: rgb(236, 76, 122);
+    font-size: 50px;
+    font-weight: bold;
+}
+h2{
+    font-size: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+}
+section{
+    height: 500px;
+    padding-bottom: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(236, 79, 146);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(236, 79, 146), rgb(236, 76, 118));
+}
+.bio-banner{
+    background-image:url(images/biography-bg.png) ;
+    height: 500px;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.working-area img{
+    width: 27%;
+    float: left;
+    margin-left: 5%;
+
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+    p{
+        color: dimgrey;
+    }
+.work-banner{
+    background-image: url(images/latest-work-bg.png);
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    color: dimgrey ;
+}
+.client-talk{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.89);
+    font-size: 18px;
+}
+#message-box{
+    
+    text-align: center;
+    font-size: 15px;
+    font-weight: 50;
+}
+#gmail-id{
+    text-align: center;
+}
+.big-button{
+    background-color: rgb(236, 51, 151);
+    width: 40%;
+    padding: 10px 50px 40px 50px;
+    margin-left: 350px;
+    color: white;
+    border-radius: 20px;
+    background-image: linear-gradient(180deg, rgb(236,82,153), rgb(237,75,110));
+}
+.end-banner{
+    background-image: url(images/footer-bg.png);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.footer-work{
+    text-align: center;
+}
